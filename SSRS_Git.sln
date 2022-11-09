@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_Git", "SSRS_Git\SSRS_Git.rptproj", "{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.Debug|Default.ActiveCfg = Debug
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.Debug|Default.Build.0 = Debug
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.Debug|Default.Deploy.0 = Debug
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.DebugLocal|Default.Build.0 = DebugLocal
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.Release|Default.ActiveCfg = Release
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.Release|Default.Build.0 = Release
+		{B2D78CA6-F203-430B-99D8-8E0C2DFD790D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEA1261-F599-40BB-B6B7-76C956F56FC4}
+	EndGlobalSection
+EndGlobal
