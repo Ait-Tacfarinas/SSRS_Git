@@ -52,6 +52,7 @@
     <DataSource Include="ServerLocal.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="Rapport_Contact.rdl" />
     <Report Include="Rapport_Societe.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
