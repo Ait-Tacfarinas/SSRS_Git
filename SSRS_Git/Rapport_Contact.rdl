@@ -86,7 +86,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Report_Contact</Value>
+                    <Value>Report_Contacts</Value>
                     <Style>
                       <FontFamily>Segoe UI Light</FontFamily>
                       <FontSize>24pt</FontSize>
